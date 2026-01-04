@@ -24,3 +24,12 @@ pref_data/
 # OS
 .DS_Store
 Thumbs.db
+
+# Web App
+web/node_modules/
+web/dist/
+uploads/
+output/
+venv/
+.backend.pid
+.frontend.pid
